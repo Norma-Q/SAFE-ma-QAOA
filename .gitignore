@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+
+# Sweep outputs (regenerate by running the sweeps)
+results/
+results_smoke/
+
+# Stray run logs
+*.log
+
+# Generated figures (regenerable by rerunning the aggregate/figure scripts)
+figures/output/
